@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OQuarto</string>
+    <string name="radio_valor1">Acesa</string>
+    <string name="radio_valor2">Apagada</string>
+    <string name="radio_valor3">Aberta</string>
+    <string name="radio_valor4">Fechada</string>
+    <string name="radio_valor5">Trancada</string>
+    <string name="botao_valor">Aceitar</string>
+</resources>
